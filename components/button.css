@@ -1,0 +1,54 @@
+.btn-red{
+
+  background-color:rgb(255, 0, 0)  ;
+  color   : white;
+  text-decoration: none;
+  padding: 1px 10px;
+
+}
+
+.btn-blue{
+
+  background-color: rgb(15, 47, 230)  ;
+  color   : white;
+  text-decoration: none;
+  padding: 1px 10px;
+
+}
+.btn-coral{
+
+  background-color: coral  ;
+  color   : white;
+  text-decoration: none;
+  padding: 1px 10px;
+
+}
+.btn-chartreuse{
+
+  background-color: chartreuse;
+  color   : white;
+  text-decoration: none;
+  padding: 1px 10px;
+
+}
+.btn-grey{
+
+  background-color: rgb(131, 131, 131)  ;
+  color   : black;
+  text-decoration: none;
+  padding: 1px 10px;
+
+}
+
+.btn-none{
+
+  background-color: none  ;
+  color   : none;
+  text-decoration: none;
+  padding: 8px 20px;
+
+}
+
+.btn-red:hover {
+  text-decoration: underline;
+}
